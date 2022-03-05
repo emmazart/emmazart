@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm currently a Bootcamp student at the University of Minnesota and enjoying learning these new skills!
+
+- 💬 Ask me who my favorite MasterChef contestant is!
+- 🐶 (Astro) & 🐱 (Pickle)
+- 🌈 Pronouns: she/her
+- 📫 Email: emma.olson794@gmail.com
 <!--
 **emmazart/emmazart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
