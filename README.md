@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-I'm currently a Bootcamp student at the University of Minnesota and enjoying learning these new skills!
+Graduate of the University of Minnesota's Full Stack Flex Coding Bootcamp!
+You can check out my badge [here!](https://www.credly.com/badges/bba711f4-2329-4c9b-b534-aa8a8955258c/public_url)
 
 - 💬 Ask me who my favorite MasterChef contestant is!
 - 🐶 (Astro) & 🐱 (Pickle)
 - 🌈 Pronouns: she/her
 - 📫 Email: emma.olson794@gmail.com
+- 🔭 I’m currently working on a website for All Walks Dog Training, using React and MUI
+
 <!--
 **emmazart/emmazart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
